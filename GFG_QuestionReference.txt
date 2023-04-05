@@ -1,0 +1,9 @@
+1. String padding = String.format("%32s", a).replace(' ', '0');  --> 32 bits binary no. me aage ki khaali space me 0 laane k liye 
+
+2. Long result = Long.parseLong(ans, 2); --> coonverts String to Long 
+
+3. String a = Long.toBinaryString(X);  --> converts Long to String
+
+4. Long l = Long.valueOf(i); --> converts int to Long
+
+5. // link to the euclid algo(yeh toh bekar h)/ most optimal(log(n)) complexity solution video  for HCF and LCM --> https://www.youtube.com/watch?v=B1gbmQF4o80
