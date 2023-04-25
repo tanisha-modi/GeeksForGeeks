@@ -17,5 +17,5 @@ class Solution{
             arr[j] = 0;
         }
         }
-    }
+    } 
 }
