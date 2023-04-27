@@ -16,7 +16,7 @@ class Solution
     
         for (int i = 0; i < m; i++)
          freq.put(arr2[i],freq.getOrDefault(arr2[i],0)+1);
-        
+         
         for (int it: freq.keySet())
         Union.add(it);
         
