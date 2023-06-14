@@ -7,3 +7,7 @@
 4. Long l = Long.valueOf(i); --> converts int to Long
 
 5. // link to the euclid algo(yeh toh bekar h)/ most optimal(log(n)) complexity solution video  for HCF and LCM --> https://www.youtube.com/watch?v=B1gbmQF4o80
+
+6. Math.abs(key) --> gives absolute or positive value
+
+7. 10^8 time complexity --> 1 sec
